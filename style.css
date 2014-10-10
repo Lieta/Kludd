@@ -120,10 +120,10 @@ main {
     margin-top: -235px;
     margin-left: 220px;
     margin-right: 20px;*/
-    margin-top: 20px;
+    margin-top: 0px;
     margin-left: 20px;
     margin-right: 20px;
-    margin-bottom: 15px;
+    margin-bottom: 25px;
 }
 
 
@@ -134,6 +134,6 @@ main {
 
 
 footer {
-    margin-left: 380px;
+    margin-left: 390px;
     font-family: 'Source Sans Pro';
 }
