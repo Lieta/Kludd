@@ -1,3 +1,139 @@
 /* css for hompage blabla 
 Last edited 2014-10-10 */
 
+
+
+/* ----------------------------------------------------
+---------------------CSS FÖR INDEX---------------------
+-----------------------------------------------------*/
+
+
+
+/* --------------CSS BARA FÖR HEADERN------------- */
+
+header {
+    width: 1440px;
+    height: auto;
+    background-color: white;
+    padding-left: 10px;
+	padding-right: 0px;
+    margin-top: -30px;
+    margin-left: -10px;
+}
+
+.logo {
+    padding-top: 40px;
+    margin-left: 450px;
+    margin-right: 600px;
+    padding-bottom: 20px;
+}
+
+
+
+/* --------------CSS BARA FÖR MENYN------------- */
+
+
+nav {
+    margin-left: 430px;
+}
+
+.menu {
+    list-style-type: none;
+}
+
+.menu li {
+    display: inline-block;
+}
+
+.menu .navLink {
+	display: inline-block;
+    margin-top: 10px;
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-top: 20px;
+	padding-bottom: 25px;
+	background: #54a7ed;
+	color: #000000;
+	font-family: 'Source Sans Pro';
+	font-size: 15px;
+	/*text-decoration:none;*/
+}
+
+
+.menu a:hover {
+	background: #bbdbf7;
+    text-decoration:none;
+}
+
+
+
+
+/* --------CSS BARA FÖR HUVUDINNEHÅLLET-------- */
+
+
+main {
+    width: 1440px;
+    height: 570px;
+    background-color: #54a7ed;
+    margin-top: -16px;
+    padding-left: 8px;
+    margin-left: -8px;
+}
+
+
+.mainRuta {
+    width: 684px;
+    height: 370px;
+    overflow: scroll;
+    background-color: #bbdbf7;
+    margin-left: 370px;
+    /*margin-right: 400px;*/
+    margin-top: -20px;
+    padding-top: 0px;
+    padding-bottom: -20px;
+    font-family: 'Source Sans Pro';
+        
+}
+
+.gosDakiImg {
+    float: left;
+    /*display: inline-block;*/
+    margin-top: 0px;
+    margin-left: 20px;
+    margin-right: 15px;
+    margin-bottom: 0px;
+    display: inline;
+}
+
+
+/* ------CSS BARA FÖR HUVUDINNEHÅLLETs TEXT------ */
+
+
+
+.mainFirstHeading {
+    padding-top: 0px;
+    margin-left: 20px;
+}
+
+.mainText {
+    /*display: inline-block;
+    margin-top: -235px;
+    margin-left: 220px;
+    margin-right: 20px;*/
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 15px;
+}
+
+
+
+
+
+/* -------------CSS BARA FÖR FOOTERN------------- */
+
+
+footer {
+    margin-left: 380px;
+    font-family: 'Source Sans Pro';
+}
