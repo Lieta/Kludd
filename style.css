@@ -249,3 +249,36 @@ footer{
     font-family: 'Source Sans Pro';
     text-align: center;
 }
+
+#socials {
+	text-align: center;
+
+}
+
+#socials ul li {
+	list-style-type: none;
+	margin-left: 0.3em;
+	padding-right: 1.333em;
+	float: right;
+}
+
+.twitter {
+	background: url(bilder/twitter.png) repeat scroll center bottom transparent;
+	width: 29px;
+	height: 28px;
+	display: block;
+}
+
+.facebook {
+	background: url(bilder/facebook.png) repeat scroll center bottom transparent;
+	width: 29px;
+	height: 28px;
+	display: block;
+}
+
+.tumblr {
+	background: url(bilder/tumblr.png) repeat scroll center bottom transparent;
+	width: 29px;
+	height: 28px;
+	display: block;
+}
