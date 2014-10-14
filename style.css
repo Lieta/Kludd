@@ -32,9 +32,9 @@ header {
 }
 
 .logo {
-   	padding-top: 150px;
-   	padding-bottom: 20px;
-	padding-left: 30px;
+   	padding-top: 10em;
+   	padding-bottom: 1.333em;
+	padding-left: 2em;
 }
 
 
@@ -117,7 +117,7 @@ main {
     width: auto;
     background-color: #6277ab;
     margin-top: -16px;
-    margin-left: -8px;
+    margin-left: -0.533em;
 	text-align: center;
 }
 
@@ -128,27 +128,27 @@ main {
 	margin-left: auto;
 	margin-right: auto;
     margin-top: 5px;
-	margin-bottom: 30px;
+	margin-bottom: 2em;
     padding-top: 5px;
-    padding-bottom: 20px;
+    padding-bottom: 1.333em;
     font-family: 'Source Sans Pro';
 	text-align: left;
 	
-	-webkit-border-radius: 8px;
-	-moz-border-radius: 8px;
-	border-radius: 8px;
-	-webkit-border-radius: 7px;
-	-moz-border-radius: 7px;
-	border-radius: 7px;
+	-webkit-border-radius: 0.533em;
+	-moz-border-radius: 0.533em;
+	border-radius: 0.533em;
+	-webkit-border-radius: 0.467em;
+	-moz-border-radius: 0.467em;
+	border-radius: 0.467em;
 }
 
 .gosDakiImg {
     float: left;
     /*display: inline-block;*/
-    margin-top: 0px;
-    margin-left: 20px;
-    margin-right: 15px;
-    margin-bottom: 0px;
+    margin-top: 0;
+    margin-left: 1.333em;
+    margin-right: 1em;
+    margin-bottom: 0;
     display: inline;
 }
 
@@ -159,50 +159,50 @@ main {
 #Dakiex1 {
     float: left;
     /*display: inline-block;*/
-    margin-top: 0px;
-    margin-left: 30px;
-    margin-right: 15px;
-    margin-bottom: 0px;
+    margin-top: 0;
+    margin-left: 2em;
+    margin-right: 1em;
+    margin-bottom: 0;
     display: inline;
 }
 
 #Dakiex2 {
     float: right;
     /*display: inline-block;*/
-    margin-left: 20px;
-    margin-right: 15px;
-    margin-bottom: 0px;
+    margin-left: 1.333em;
+    margin-right: 1em;
+    margin-bottom: 0;
     display: inline;
 }
 
 .omdomeleft img{
     float: left;
     /*display: inline-block;*/
-    margin-top: 0px;
-    margin-left: 20px;
-    margin-right: 15px;
-    margin-bottom: 10px;
+    margin-top: 0;
+    margin-left: 1.333em;
+    margin-right: 1em;
+    margin-bottom: 0.667em;
     display: inline;
-	width: 100px;
-	height: 100px;
-	border-radius: 50px;
-	-webkit-border-radius: 50px;
-	-moz-border-radius: 50px;
+	width: 6.667em;
+	height: 6.667em;
+	border-radius: 3.333em;
+	-webkit-border-radius: 3.333em;
+	-moz-border-radius: 3.333em;
 }
 
 .omdomeright img{
     float: right;
     /*display: inline-block;*/
-    margin-top: 0px;
-    margin-left: 30px;
-    margin-right: 20px;
-    margin-bottom: 10px;
+    margin-top: 0;
+    margin-left: 2em;
+    margin-right: 1.333em;
+    margin-bottom: 0.667em;
     display: inline;
-	width: 100px;
-	height: 100px;
-	border-radius: 50px;
-	-webkit-border-radius: 50px;
-	-moz-border-radius: 50px;
+	width: 6.667em;
+	height: 6.667em;
+	border-radius: 3.333em;
+	-webkit-border-radius: 3.333em;
+	-moz-border-radius: 3.333em;
 }
 
 
@@ -211,48 +211,48 @@ main {
 
 
 .mainFirstHeading {
-    padding-top: 0px;
-    margin-left: 20px;
+    padding-top: 0;
+    margin-left: 1.333em;
 }
 
 .omdomeheading {
-    padding-top: 0px;
-    margin-left: 20px;
-	margin-bottom: 0px;
+    padding-top: 0;
+    margin-left: 1.333em;
+	margin-bottom: 0;
 }
 
 .indexText {
     /*display: inline-block;
     margin-top: -235px;
     margin-left: 220px;
-    margin-right: 20px;*/
-    margin-top: 0px;
-    margin-left: 20px;
-    margin-right: 20px;
-    margin-bottom: 25px;
-	font-size: 20px;
+    margin-right: 1.333em;*/
+    margin-top: 0;
+    margin-left: 1.333em;
+    margin-right: 1.333em;
+    margin-bottom: 1.667em;
+	font-size: 1.333em;
 }
 
 .mainText {
     /*display: inline-block;
     margin-top: -235px;
     margin-left: 220px;
-    margin-right: 20px;*/
-    margin-top: 0px;
-    margin-left: 20px;
-    margin-right: 20px;
-    margin-bottom: 25px;
+    margin-right: 1.333em;*/
+    margin-top: 0;
+    margin-left: 1.333em;
+    margin-right: 1.333em;
+    margin-bottom: 1.667em;
 }
 
 .omdome {
     /*display: inline-block;
     margin-top: -235px;
     margin-left: 220px;
-    margin-right: 20px;*/
-    margin-top: 0px;
-    margin-left: 20px;
-    margin-right: 20px;
-    margin-bottom: 30px;
+    margin-right: 1.333em;*/
+    margin-top: 0;
+    margin-left: 1.333em;
+    margin-right: 1.333em;
+    margin-bottom: 2em;
 }
 
 
@@ -265,9 +265,9 @@ footer{
     background-color: #ffffff;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 20px;
-    padding-top: 5px;
-    padding-bottom: 20px;
+    margin-top: 1.333em;
+    padding-top: 0.333em;
+    padding-bottom: 1.333em;
     font-family: 'Source Sans Pro';
     text-align: center;
 }
@@ -279,28 +279,28 @@ footer{
 
 #socials ul li {
 	list-style-type: none;
-	margin-left: 0.3em;
+	margin-left: 4em;
 	padding-right: 1.333em;
 	float: right;
 }
 
 .twitter {
 	background: url(bilder/twitter.png) repeat scroll center bottom transparent;
-	width: 29px;
-	height: 28px;
+	width: 1.933em;
+	height: 1.867em;
 	display: block;
 }
 
 .facebook {
 	background: url(bilder/facebook.png) repeat scroll center bottom transparent;
-	width: 29px;
-	height: 28px;
+	width: 1.933em;
+	height: 1.867em;
 	display: block;
 }
 
 .tumblr {
 	background: url(bilder/tumblr.png) repeat scroll center bottom transparent;
-	width: 29px;
-	height: 28px;
+	width: 1.933em;
+	height: 1.867em;
 	display: block;
 }
